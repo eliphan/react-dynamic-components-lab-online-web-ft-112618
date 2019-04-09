@@ -8,6 +8,7 @@ class Comment extends React.Component {
     return  (
       <div className="comment">
         {this.props.CommentText}
+        <BlogPost/>
       </div>
       )
   }
