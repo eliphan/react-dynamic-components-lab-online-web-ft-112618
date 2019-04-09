@@ -5,11 +5,11 @@ import ColorBox from './ColorBox.js';
 
 class Comment extends Component {
   render () {
-    return  (
+    return  
       <div className="comment">
         {this.props.CommentText}
       </div>
-      )
+      
   }
 }
 export default Comment;
