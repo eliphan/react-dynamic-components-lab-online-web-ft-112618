@@ -6,7 +6,7 @@ import ColorBox from './ColorBox.js'
 class Comment extends React.Component {
   render () {
     return  (
-      <div>
+      <div className="comment">
       {this.props.CommentText}
       </div>
       )
