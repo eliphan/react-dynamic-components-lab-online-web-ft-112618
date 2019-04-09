@@ -5,6 +5,9 @@ import ColorBox from './ColorBox.js'
 
 class Comment extends Component {
   render () {
-    return  
+    return  (
+      <div>
+      </div>
+      )
   }
 }
