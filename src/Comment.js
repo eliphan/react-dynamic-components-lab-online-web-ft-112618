@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import BlogPost from './BlogPost.js';
 import ColorBox from './ColorBox.js';
 
-export default class Comment extends Component {
+ extends Component {
   render () {
     return  (
       <div className="comment">
