@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import BlogPost from './BlogPost.js'
 import ColorBox from './ColorBox.js'
 
-class Comment extends Component {
+class Comment extends React.Component {
   render () {
     return  (
       <div>
