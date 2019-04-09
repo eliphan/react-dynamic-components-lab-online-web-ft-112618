@@ -3,7 +3,7 @@ import React, { Component } from 'react';
 import BlogPost from './BlogPost.js';
 import ColorBox from './ColorBox.js';
 
- extends Component {
+class Comment extends Component {
   render () {
     return  (
       <div className="comment">
@@ -12,3 +12,4 @@ import ColorBox from './ColorBox.js';
       )
   }
 }
+export default class Comment
