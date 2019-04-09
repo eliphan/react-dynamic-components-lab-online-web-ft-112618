@@ -4,6 +4,7 @@ import BlogPost from './BlogPost.js'
 import ColorBox from './ColorBox.js'
 
 class Comment extends Component {
-  render ()
-  return
+  render () {
+    return  
+  }
 }
